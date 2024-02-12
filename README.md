@@ -38,6 +38,9 @@ To revolutionize the culinary journey by creating a comprehensive, user-friendly
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
+![uml1](./path/to/image.png "uml1")
+
+
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
