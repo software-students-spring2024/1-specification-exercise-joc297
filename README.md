@@ -14,10 +14,20 @@ A little exercise to get started with the specification phase of the software de
 
 
 Problem:
-* When I want to cook, I cannot find out the step-by-step instructions for a beginner cooker.
-* When I am on a diet, I cannot make sure the dish I am cooking fulfill personal goal of daily intake
-* When I have specific question about a dish (specific scale of gradient,etc. ) I cannot reach to the publisher.
-* When I want to publish or record how many dish was cooked and how they were cooked, I cannot find a right platform to share and record.
+
+### Problem 1: Lack of Step-by-Step Instructions for Beginners
+* Objective: Understand the needs of beginner cooks regarding instructional content.
+
+
+### Problem 2: Aligning Cooking with Dietary Goals
+* Objective: Explore how users integrate dietary goals into their cooking practices.
+
+
+### Problem 3: Inability to Ask Questions to Recipe Publishers
+* Objective: Investigate the demand for direct communication with recipe creators.
+
+### Problem 4: Sharing and Recording Cooking Experiences
+* Objective: Understand user needs for a platform to share and document their cooking journeys.
 
 ## Product Vision Statement
 
