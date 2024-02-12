@@ -44,7 +44,11 @@ As a fitness enthusiast, I want to find meals with specific caloric contents so 
 ![UML2](UML2.png "UML2")
 
 
+## Wireframe Diagrams
+https://www.figma.com/file/MI8mdZdROmVKmPY8gxvxZU/wireframe?type=design&mode=design&t=e6vlfnZkiIdwdR9I-0
+
 
 ## Clickable Prototype
+https://www.figma.com/file/YLGE8gvM5S6ziwttyMJwbW/Demo-1?type=design&node-id=0-1&mode=design&t=e6vlfnZkiIdwdR9I-0
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+
