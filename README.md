@@ -36,10 +36,11 @@ To revolutionize the culinary journey by creating a comprehensive, user-friendly
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
-
+As a home cook, I want to share my unique recipes so that I can inspire others with my culinary creations.
 ![UML1](uml1.jpg "UML1")
 
+As a fitness enthusiast, I want to find meals with specific caloric contents so that I can maintain a healthy diet while enjoying diverse cuisines.
+![UML2](uml2.jpg "UML2")
 
 
 
