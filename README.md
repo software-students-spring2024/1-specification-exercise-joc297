@@ -5,8 +5,10 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Yiwen Yin yy3401@nyu.edu](https://github.com/YY35n)
+
 [Michael Han zh2033@nyu.edu](https://github.com/Hmic1102)
-[Jinqiao Cheng joc297](https://github.com/jinqiaocheng163)
+
+[Jinqiao Cheng joc297@nyu.edu](https://github.com/jinqiaocheng163)
 
 ## Stakeholders
 
