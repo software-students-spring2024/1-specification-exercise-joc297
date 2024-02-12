@@ -10,7 +10,6 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-Interview at least one person who is a good representative of the type of person for whom you are designing an app. Ask them questions about their goals, needs and desires. Find out problems and frustrations they have that a mobile app might be able to help with. You should be able to identify at least four goals/needs and four problems/frustrations.
 
 Problem:
 * When I want to cook, I cannot find out the step-by-step instructions for a beginner cooker.
