@@ -40,7 +40,7 @@ As a home cook, I want to share my unique recipes so that I can inspire others w
 ![UML1](UML1.png "UML1")
 
 As a fitness enthusiast, I want to find meals with specific caloric contents so that I can maintain a healthy diet while enjoying diverse cuisines.
-![UML2](UML2.jpg "UML2")
+![UML2](UML2.png "UML2")
 
 
 
